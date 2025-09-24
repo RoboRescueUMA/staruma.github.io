@@ -1,5 +1,5 @@
 ---
-translationKey: Joaquín Vega
+translationKey: joaquin-vega
 # Display name
 title: Joaquín Vega Benítez
 

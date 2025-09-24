@@ -1,5 +1,5 @@
 ---
-translationKey: Antonio Ruiz Espinosa
+translationKey: antonio-ruiz-espinosa
 # Display name
 title: Antonio Ruiz Espinosa
 
@@ -12,9 +12,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Antiguos miembros
 ---
 
 Su paso por el equipo será recordado con cariño, ya que gracias a los que trabajaron en el pasado hemos llegado a ser lo que somos. 
-
-# TODO: translate bio to English

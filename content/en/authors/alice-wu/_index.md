@@ -1,4 +1,5 @@
 ---
+translationKey: alice-wu
 # Display name
 title: Alice Wu 吳恩達
 
@@ -8,7 +9,7 @@ last_name: Wu
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - alice-wu
 
 # Is this the primary user of the site?
 superuser: false

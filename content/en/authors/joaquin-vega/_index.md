@@ -1,16 +1,17 @@
 ---
+translationKey: joaquin-vega
 # Display name
-title: Carla Parra González
+title: Joaquín Vega Benítez
 
 # Full Name (for SEO)
-first_name: Carla
-last_name: Parra González
+first_name: Joaquín
+last_name: Vega Benítez
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Departamento de marketing
+role: Ingeniero Software
 
 # Organizations/Affiliations
 organizations:
@@ -18,17 +19,18 @@ organizations:
     url: 'http://www.uma.es'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interesada en copywriting y desarrollo de marcas.
+bio: Interesado en Robótica, especialmente en diseño y programación.
 
 interests:
-  - Copywriting.
-  - Desarrollo de marca.
+  - Diseño y programación de robots.
+  - Programación de PLC.
+  - Control de procesos.
 
 education:
   courses:
-    - course: Estudiante de 3° de Márketing e Investigación de Mercados
+    - course: Estudiante de 4° de ingeniería Electrónica, Robótica y Mecatrónica
       institution: Universidad de Málaga
-      year: 2022
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -37,16 +39,14 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:carlaparragonzalez04@gmail.com'
+    link: 'mailto:joaquinvegabenitez@gmail.com'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/carlaparraa
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/carla.parraa/profilecard/?igsh=Y3dpdDZ1OXBhNWJ0
+    link: https://www.linkedin.com/in/joaqu%C3%ADn-vega-ben%C3%ADtez-b11099318/
   - icon: github
     icon_pack: fab
-    link: https://github.com/CarlaParra2
+    link: https://github.com/JoaquinVega2
+
     
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -63,7 +63,11 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Marketing
+  - Software
 ---
 
-Estudiante de Marketing e Investigación de Mercados, me entusiasma el mundo empresarial, el emprendimiento y comprender el comportamiento de los consumidores en diferentes áreas.
+
+
+Soy Joaquín, estudiante de Robótica en la UMA. Busco expandir mis conocimientos sobre todos los temas posibles para poder aportar algo útil al mundo. Mis principales intereses actualmente son la robótica y la electrónica. Me uní al grupo para poder adquirir experiencia en un proyecto real y así tener un preparación más avanzada.
+
+# TODO: translate bio to English

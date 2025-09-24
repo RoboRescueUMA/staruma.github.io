@@ -1,5 +1,5 @@
 ---
-translationKey: Carla Parra
+translationKey: carla-parra
 # Display name
 title: Carla Parra González
 
